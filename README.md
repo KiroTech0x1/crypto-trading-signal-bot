@@ -9,15 +9,6 @@ Automated cryptocurrency trading signal bot for Telegram. Uses multi-timeframe t
 
 ## 📸 Screenshots
 
-<p align="center">
-  <img src="images/premium_signal.png" width="350" alt="Premium Signal with Chart">
-  <img src="images/tweet_generator.png" width="350" alt="Auto Tweet Generator">
-</p>
-<p align="center">
-  <img src="images/target_hit.png" width="350" alt="Target Hit Notification">
-  <img src="images/bot_menu.png" width="350" alt="Bot Start Menu">
-</p>
-
 | Premium Signal + Chart | Auto Tweet Generator |
 |:---:|:---:|
 | ![Premium Signal](images/premium_signal.png) | ![Tweet Generator](images/tweet_generator.png) |
