@@ -1,0 +1,249 @@
+{
+  "generated_at": "2026-05-30T05:29:32.621783",
+  "expires_at": "2026-05-31T05:29:32.621800",
+  "trades": [
+    {
+      "coin": "MANAUSDT",
+      "profit": 43.05,
+      "is_win": true
+    },
+    {
+      "coin": "ETCUSDT",
+      "profit": 32.6,
+      "is_win": true
+    },
+    {
+      "coin": "FILUSDT",
+      "profit": 66.32,
+      "is_win": true
+    },
+    {
+      "coin": "BATUSDT",
+      "profit": 21.27,
+      "is_win": true
+    },
+    {
+      "coin": "EOSUSDT",
+      "profit": 69.8,
+      "is_win": true
+    },
+    {
+      "coin": "LDOUSDT",
+      "profit": -45.2,
+      "is_win": false
+    },
+    {
+      "coin": "QNTUSDT",
+      "profit": 83.15,
+      "is_win": true
+    },
+    {
+      "coin": "YFIUSDT",
+      "profit": 66.55,
+      "is_win": true
+    },
+    {
+      "coin": "OCEANUSDT",
+      "profit": 94.92,
+      "is_win": true
+    },
+    {
+      "coin": "IOTAUSDT",
+      "profit": 53.53,
+      "is_win": true
+    },
+    {
+      "coin": "ETHUSDT",
+      "profit": 124.26,
+      "is_win": true
+    },
+    {
+      "coin": "ATOMUSDT",
+      "profit": 51.43,
+      "is_win": true
+    },
+    {
+      "coin": "AXSUSDT",
+      "profit": 40.16,
+      "is_win": true
+    },
+    {
+      "coin": "ARBUSDT",
+      "profit": 296.85,
+      "is_win": true
+    },
+    {
+      "coin": "HBARUSDT",
+      "profit": 53.88,
+      "is_win": true
+    },
+    {
+      "coin": "LDOUSDT",
+      "profit": 62.61,
+      "is_win": true
+    },
+    {
+      "coin": "ZECUSDT",
+      "profit": 202.76,
+      "is_win": true
+    },
+    {
+      "coin": "BNBUSDT",
+      "profit": 281.52,
+      "is_win": true
+    },
+    {
+      "coin": "DASHUSDT",
+      "profit": 21.01,
+      "is_win": true
+    },
+    {
+      "coin": "QNTUSDT",
+      "profit": 27.52,
+      "is_win": true
+    },
+    {
+      "coin": "LDOUSDT",
+      "profit": 50.7,
+      "is_win": true
+    },
+    {
+      "coin": "BNBUSDT",
+      "profit": 21.72,
+      "is_win": true
+    },
+    {
+      "coin": "APEUSDT",
+      "profit": 20.56,
+      "is_win": true
+    },
+    {
+      "coin": "SEIUSDT",
+      "profit": 24.69,
+      "is_win": true
+    },
+    {
+      "coin": "OCEANUSDT",
+      "profit": 106.22,
+      "is_win": true
+    },
+    {
+      "coin": "SNXUSDT",
+      "profit": 23.4,
+      "is_win": true
+    },
+    {
+      "coin": "ANKRUSDT",
+      "profit": 312.98,
+      "is_win": true
+    },
+    {
+      "coin": "EGLDUSDT",
+      "profit": 193.4,
+      "is_win": true
+    },
+    {
+      "coin": "SUIUSDT",
+      "profit": 57.15,
+      "is_win": true
+    },
+    {
+      "coin": "ADAUSDT",
+      "profit": 113.29,
+      "is_win": true
+    },
+    {
+      "coin": "INJUSDT",
+      "profit": 93.87,
+      "is_win": true
+    },
+    {
+      "coin": "IOSTUSDT",
+      "profit": 147.29,
+      "is_win": true
+    },
+    {
+      "coin": "ETCUSDT",
+      "profit": 55.44,
+      "is_win": true
+    },
+    {
+      "coin": "MANAUSDT",
+      "profit": 60.27,
+      "is_win": true
+    },
+    {
+      "coin": "OCEANUSDT",
+      "profit": 21.52,
+      "is_win": true
+    },
+    {
+      "coin": "FETUSDT",
+      "profit": 53.78,
+      "is_win": true
+    },
+    {
+      "coin": "FETUSDT",
+      "profit": 113.99,
+      "is_win": true
+    },
+    {
+      "coin": "ONTUSDT",
+      "profit": 76.45,
+      "is_win": true
+    },
+    {
+      "coin": "LINKUSDT",
+      "profit": 99.4,
+      "is_win": true
+    },
+    {
+      "coin": "DYDXUSDT",
+      "profit": -45.67,
+      "is_win": false
+    },
+    {
+      "coin": "SEIUSDT",
+      "profit": 142.54,
+      "is_win": true
+    },
+    {
+      "coin": "KSMUSDT",
+      "profit": 67.09,
+      "is_win": true
+    },
+    {
+      "coin": "TRXUSDT",
+      "profit": 34.36,
+      "is_win": true
+    },
+    {
+      "coin": "MKRUSDT",
+      "profit": 67.5,
+      "is_win": true
+    },
+    {
+      "coin": "LINKUSDT",
+      "profit": 103.23,
+      "is_win": true
+    },
+    {
+      "coin": "SHIBUSDT",
+      "profit": 192.08,
+      "is_win": true
+    },
+    {
+      "coin": "SEIUSDT",
+      "profit": 61.59,
+      "is_win": true
+    }
+  ],
+  "summary": {
+    "total_signals": 47,
+    "wins": 45,
+    "losses": 2,
+    "win_rate": 96.48,
+    "total_profit": 3916.83,
+    "avg_profit": 83.34
+  }
+}
