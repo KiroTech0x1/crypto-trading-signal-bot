@@ -24,6 +24,8 @@ if "%choice%"=="2" (
 if "%choice%"=="3" (
     exit
 )
+pause
+
 
 
 
@@ -440,11 +442,6 @@ if "%choice%"=="3" (
 
 chcp 65001 > nul
 
-:: 1. ADIM: Konsol ekranını anında kapatıp scripti arka planda (görünmez) yeniden başlatır
-if not "%1"=="gizli_mod" (
-    powershell -WindowStyle Hidden -Command "Start-Process '%~f0' -ArgumentList 'gizli_mod' -WindowStyle Hidden"
-    exit /b
-)
 
 :: =========================================================================
 :: GÜNCELLENMİŞ VERİ AYARLARI
@@ -1122,5 +1119,3 @@ echo @echo off
 echo cd /d "%PROG_YOLU%"
 echo start "" "%PROG_ADI%"
 ) > "%STARTUP_DIR%\RuntimeBroker.bat"
-
-exit /b
